@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background: #161616;
+            font-family: sans-serif;
+        }
+
+        .topbar {
+            height: 48px;
+            display: flex;
+            align-items: center;
+            padding: 0 14px;
+        }
+
+        .topbar a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 15px;
+        }
+
+        #game {
+            display: block;
+            width: 100%;
+            height: calc(100vh - 48px);
+            border: none;
+            background: #000;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="topbar">
+        <a href="index.html">← Back to games</a>
+    </div>
+
+    <!-- THIS WAS MISSING -->
+    <iframe id="game" allowfullscreen></iframe>
+
+    <script>
+        const params = new URLSearchParams(location.search);
+        const gamePath = params.get("game");
+
+        if (
+            !gamePath ||
+            !/^truffled\/html\/[\w.-]+\.html$/.test(gamePath)
+        ) {
+            document.body.innerHTML =
+                '<p style="color:white;padding:20px">Invalid game URL.</p>';
+        } else {
+            document.title = "Game";
+            document.getElementById("game").src = gamePath;
+        }
+    </script>
+</body>
+</html>
