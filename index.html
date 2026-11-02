@@ -15,6 +15,13 @@
 
     <h1>Aero</h1>
     <p>Click a box below to play the game instantly</p>
+    <input
+    type="text"
+    id="searchInput"
+    placeholder="Search for a game..."
+    autocomplete="off"
+>
+
 <div class="game-grid" id="truffledGrid"></div>
     <div id="jumpscare-overlay">
   <div class="jumpscare-text">YOU'LL NEVER SEE IT</div>
@@ -126,6 +133,26 @@ searchInput.addEventListener("input", function () {
     const gameCards = document.querySelectorAll(".game-card");
 
     gameCards.forEach(card => {
+        const gameName = card.querySelector(".hover-text p");
+
+        if (!gameName) return;
+
+        const name = gameName.textContent.toLowerCase();
+
+        card.style.display = name.includes(searchValue)
+            ? "flex"
+            : "none";
+    });
+});
+    const searchInput = document.getElementById("searchInput");
+const grid = document.getElementById("truffledGrid");
+
+searchInput.addEventListener("input", function () {
+    const searchValue = searchInput.value.toLowerCase().trim();
+
+    const cards = grid.querySelectorAll(".game-card");
+
+    cards.forEach(card => {
         const gameName = card.querySelector(".hover-text p");
 
         if (!gameName) return;
