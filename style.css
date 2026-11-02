@@ -304,3 +304,28 @@ body { background: #111; color: #fff; font-family: sans-serif; text-align: cente
 #searchInput::placeholder {
     color: #888;
 }
+#searchInput {
+    width: 320px;
+    max-width: 85%;
+    padding: 13px 16px;
+
+    background: #1a1a1a;
+    color: white;
+
+    border: 1px solid #333;
+    border-radius: 10px;
+
+    font-size: 16px;
+    outline: none;
+
+    transition: 0.2s ease;
+}
+
+#searchInput:focus {
+    border-color: #3282B8;
+    box-shadow: 0 0 10px rgba(50, 130, 184, 0.3);
+}
+
+#searchInput::placeholder {
+    color: #888;
+}
