@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "1",
-    "game": "html/1.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/1/index.html",
     "cover": "covers/1.png",
     "original": {
       "url": "/games/1/index.html",
@@ -12,7 +12,7 @@
   {
     "id": 5,
     "name": "2048",
-    "game": "html/5.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/2048/index.html",
     "cover": "covers/5.png",
     "original": {
       "url": "/games/2048/index.html",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "10 Minutes Till Dawn",
-    "game": "html/3.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/10-minutes-till-dawn/index.html",
     "cover": "covers/3.png",
     "original": {
       "url": "/games/10minutestilldawn/index.html",
@@ -132,7 +132,7 @@
   {
     "id": 13,
     "name": "ADOFAI",
-    "game": "html/13.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/a-dance-of-fire-and-ice/index.html",
     "cover": "covers/13.png",
     "original": {
       "url": "/games/a-dance-of-fire-and-ice/index.html",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Among us",
-    "game": "html/16.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/among-us/index.html",
     "cover": "covers/16.png",
     "original": {
       "url": "/games/amongus/index.html",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "name": "Baldi's Basics",
-    "game": "html/31.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/baldis-basics/index.html",
     "cover": "covers/31.png",
     "original": {
       "url": "/games/baldis-basics/index.html",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "name": "Basket Random",
-    "game": "html/42.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/basket-random/index.html",
     "cover": "covers/42.png",
     "original": {
       "url": "/games/basket-random/index.html",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "name": "Basketball stars",
-    "game": "html/43.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/basketball-stars/index.html",
     "cover": "covers/43.png",
     "original": {
       "url": "/games/basketballstars/index.html",
@@ -472,7 +472,7 @@
   {
     "id": 48,
     "name": "Bitlife",
-    "game": "html/48.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/bitlife/index.html",
     "cover": "covers/48.png",
     "original": {
       "url": "/games/bitlife/index.html",
@@ -512,7 +512,7 @@
   {
     "id": 52,
     "name": "Bloon TD1",
-    "game": "html/52.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/bloonstd/index.html",
     "cover": "covers/52.png",
     "original": {
       "url": "/games/bloonstd/index.html",
@@ -522,7 +522,7 @@
   {
     "id": 53,
     "name": "Bloon TD2",
-    "game": "html/53.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/bloonstd2/index.html",
     "cover": "covers/53.png",
     "original": {
       "url": "/games/bloonstd2/index.html",
@@ -552,7 +552,7 @@
   {
     "id": 56,
     "name": "Bloons TD5",
-    "game": "html/56.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/btd5/index.html",
     "cover": "covers/56.png",
     "original": {
       "url": "/games/btd5/index.html",
@@ -572,7 +572,7 @@
   {
     "id": 58,
     "name": "Bloxors",
-    "game": "html/58.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/bloxors/index.html",
     "cover": "covers/58.png",
     "original": {
       "url": "/games/bloxors/index.html",
@@ -882,7 +882,7 @@
   {
     "id": 89,
     "name": "Csgo Clicker",
-    "game": "html/89.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/csgo-clicker/index.html",
     "cover": "covers/89.png",
     "original": {
       "url": "/games/csgo-clicker/index.html",
@@ -1062,7 +1062,7 @@
   {
     "id": 104,
     "name": "Death Run 3D",
-    "game": "html/104.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/death-run-3d/index.html",
     "cover": "covers/104.png",
     "original": {
       "url": "/games/death-run-3d/index.html",
@@ -1102,7 +1102,7 @@
   {
     "id": 111,
     "name": "Doge Miner",
-    "game": "html/111.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/DogeMiner/index.html",
     "cover": "covers/111.png",
     "original": {
       "url": "/gamefile/Doge Miner.html",
@@ -1132,7 +1132,7 @@
   {
     "id": 114,
     "name": "Doodle Jump",
-    "game": "html/114.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/doodle-jump/index.html",
     "cover": "covers/114.png",
     "original": {
       "url": "/gamefile/Doodle Jump.html",
@@ -1202,7 +1202,7 @@
   {
     "id": 121,
     "name": "Drift Boss",
-    "game": "html/121.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/drift-boss/index.html",
     "cover": "covers/121.png",
     "original": {
       "url": "/games/drift-boss/index.html",
@@ -1212,7 +1212,7 @@
   {
     "id": 124,
     "name": "Duck Life 1",
-    "game": "html/124.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/ducklife1/index.html",
     "cover": "covers/124.png",
     "original": {
       "url": "/games/ducklife1/index.html",
@@ -1222,7 +1222,7 @@
   {
     "id": 126,
     "name": "Duck Life 3",
-    "game": "html/126.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/ducklife3/index.html",
     "cover": "covers/126.png",
     "original": {
       "url": "/games/ducklife3/index.html",
@@ -1242,7 +1242,7 @@
   {
     "id": 123,
     "name": "Drive Mad",
-    "game": "html/123.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/drive-mad/index.html",
     "cover": "covers/123.png",
     "original": {
       "url": "/games/drive-mad/index.html",
@@ -1252,7 +1252,7 @@
   {
     "id": 125,
     "name": "Duck Life 2",
-    "game": "html/125.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/ducklife2/index.html",
     "cover": "covers/125.png",
     "original": {
       "url": "/games/ducklife2/index.html",
@@ -1262,7 +1262,7 @@
   {
     "id": 127,
     "name": "Duck Life 4",
-    "game": "html/127.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/Duck-Life-4/index.html",
     "cover": "covers/127.png",
     "original": {
       "url": "/games/ducklife4/index.html",
@@ -1322,7 +1322,7 @@
   {
     "id": 133,
     "name": "Eggy Car",
-    "game": "html/133.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/eggycar/index.html",
     "cover": "covers/133.png",
     "original": {
       "url": "/gamefile/eggycar.html",
@@ -1402,7 +1402,7 @@
   {
     "id": 141,
     "name": "Fancy Pants Adventures",
-    "game": "html/141.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/fancypantsadventures/index.html",
     "cover": "covers/141.png",
     "original": {
       "url": "/games/fancypantsadventures/index.html",
@@ -1542,7 +1542,7 @@
   {
     "id": 155,
     "name": "Flappy bird",
-    "game": "html/155.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/flappy-bird/index.html",
     "cover": "covers/155.png",
     "original": {
       "url": "/games/flappybird/index.html",
@@ -1652,7 +1652,7 @@
   {
     "id": 166,
     "name": "FNAW",
-    "game": "html/166.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/fnaw/index.html",
     "cover": "covers/166.png",
     "original": {
       "url": "/gamefile/fnaw.html",
@@ -1692,7 +1692,7 @@
   {
     "id": 170,
     "name": "Fruit Ninja",
-    "game": "html/170.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/fruitninja/index.html",
     "cover": "covers/170.png",
     "original": {
       "url": "/games/fruitninja/index.html",
@@ -1742,7 +1742,7 @@
   {
     "id": 175,
     "name": "Getaway Shootout",
-    "game": "html/175.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/getaway-shootout/index.html",
     "cover": "covers/175.png",
     "original": {
       "url": "/games/getaway-shootout/index.html",
@@ -1772,7 +1772,7 @@
   {
     "id": 178,
     "name": "Gladihoppers",
-    "game": "html/178.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/gladihoppers/index.html",
     "cover": "covers/178.png",
     "original": {
       "url": "/gamefile/Gladihoppers.html",
@@ -1982,7 +1982,7 @@
   {
     "id": 199,
     "name": "Happy Wheels",
-    "game": "html/199.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/happywheels/index.html",
     "cover": "covers/199.png",
     "original": {
       "url": "/games/happywheels/index.html",
@@ -2052,7 +2052,7 @@
   {
     "id": 206,
     "name": "Idle Breakout",
-    "game": "html/206.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/idle-breakout/index.html",
     "cover": "covers/206.png",
     "original": {
       "url": "/games/idle-breakout/index.html",
@@ -2102,7 +2102,7 @@
   {
     "id": 211,
     "name": "Jetpack Joyride",
-    "game": "html/211.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/jetpack-joyride/index.html",
     "cover": "covers/211.png",
     "original": {
       "url": "/games/jetpackjoyride/index.html",
@@ -2202,7 +2202,7 @@
   {
     "id": 221,
     "name": "Learn To Fly",
-    "game": "html/221.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/learntofly/index.html",
     "cover": "covers/221.png",
     "original": {
       "url": "/games/learntofly/index.html",
@@ -2212,7 +2212,7 @@
   {
     "id": 222,
     "name": "Learn To Fly 2",
-    "game": "html/222.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/learntofly2/index.html",
     "cover": "covers/222.png",
     "original": {
       "url": "/games/learntofly2/index.html",
@@ -2222,7 +2222,7 @@
   {
     "id": 223,
     "name": "Learn To Fly 3",
-    "game": "html/223.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/ltf3/index.html",
     "cover": "covers/223.png",
     "original": {
       "url": "/games/ltf3/index.html",
@@ -2442,7 +2442,7 @@
   {
     "id": 249,
     "name": "Moto X3M",
-    "game": "html/249.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/motox3m/index.html",
     "cover": "covers/249.png",
     "original": {
       "url": "/games/motox3m/index.html",
@@ -2482,7 +2482,7 @@
   {
     "id": 248,
     "name": "Monkey Mart",
-    "game": "html/248.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/MonkeyMart/index.html",
     "cover": "covers/248.png",
     "original": {
       "url": "/games/MonkeyMart/index.html",
@@ -2502,7 +2502,7 @@
   {
     "id": 251,
     "name": "n-gon",
-    "game": "html/251.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/n-gon/index.html",
     "cover": "covers/251.png",
     "original": {
       "url": "/games/n-gon/index.html",
@@ -2612,7 +2612,7 @@
   {
     "id": 262,
     "name": "Osu!",
-    "game": "html/262.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/osu!/index.html",
     "cover": "covers/262.png",
     "original": {
       "url": "/games/osu!/index.html",
@@ -2632,7 +2632,7 @@
   {
     "id": 264,
     "name": "OvO",
-    "game": "html/264.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/ovo/index.html",
     "cover": "covers/264.png",
     "original": {
       "url": "/games/ovo/index.html",
@@ -2712,7 +2712,7 @@
   {
     "id": 272,
     "name": "Papas Burgeria",
-    "game": "html/272.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/papasburgeria/index.html",
     "cover": "covers/272.png",
     "original": {
       "url": "/games/papasburgeria/index.html",
@@ -2772,7 +2772,7 @@
   {
     "id": 278,
     "name": "Paperio 2",
-    "game": "html/278.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/paperio2/index.html",
     "cover": "covers/278.png",
     "original": {
       "url": "/games/paperio2/index.html",
@@ -3112,7 +3112,7 @@
   {
     "id": 316,
     "name": "Riddle School",
-    "game": "html/316.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/riddleschool/index.html",
     "cover": "covers/316.png",
     "original": {
       "url": "/games/riddleschool/index.html",
@@ -3132,7 +3132,7 @@
   {
     "id": 314,
     "name": "Retro Bowl",
-    "game": "html/314.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/retro-bowl/index.html",
     "cover": "covers/314.png",
     "original": {
       "url": "/games/retro-bowl/index.html",
@@ -3182,7 +3182,7 @@
   {
     "id": 320,
     "name": "Riddle School 5",
-    "game": "html/320.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/riddleschool5/index.html",
     "cover": "covers/320.png",
     "original": {
       "url": "/games/riddleschool5/index.html",
@@ -3192,7 +3192,7 @@
   {
     "id": 318,
     "name": "Riddle School 3",
-    "game": "html/318.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/riddleschool3/index.html",
     "cover": "covers/318.png",
     "original": {
       "url": "/games/riddleschool3/index.html",
@@ -3202,7 +3202,7 @@
   {
     "id": 319,
     "name": "Riddle School 4",
-    "game": "html/319.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/riddleschool4/index.html",
     "cover": "covers/319.png",
     "original": {
       "url": "/games/riddleschool4/index.html",
@@ -3222,7 +3222,7 @@
   {
     "id": 325,
     "name": "Run",
-    "game": "html/325.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/run/index.html",
     "cover": "covers/325.png",
     "original": {
       "url": "/gamefile/run.html",
@@ -3232,7 +3232,7 @@
   {
     "id": 323,
     "name": "Rooftop Snipers",
-    "game": "html/323.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/rooftop-snipers/index.html",
     "cover": "covers/323.png",
     "original": {
       "url": "/games/rooftop-snipers/index.html",
@@ -3242,7 +3242,7 @@
   {
     "id": 326,
     "name": "Run 2",
-    "game": "html/326.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/Run%202/index.html",
     "cover": "covers/326.png",
     "original": {
       "url": "/gamefile/run2.html",
@@ -3312,7 +3312,7 @@
   {
     "id": 330,
     "name": "Sandboxels",
-    "game": "html/330.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/sandboxels/index.html",
     "cover": "covers/330.png",
     "original": {
       "url": "/gamefile/Sandboxels.html",
@@ -3392,7 +3392,7 @@
   {
     "id": 342,
     "name": "Slope",
-    "game": "html/342.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/slope/index.html",
     "cover": "covers/342.png",
     "original": {
       "url": "/games/slope/index.html",
@@ -3482,7 +3482,7 @@
   {
     "id": 349,
     "name": "Smash Karts",
-    "game": "html/349.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/smashkarts/index.html",
     "cover": "covers/349.png",
     "original": {
       "url": "/games/smashkarts/index.html",
@@ -3522,7 +3522,7 @@
   {
     "id": 353,
     "name": "Soccer Random",
-    "game": "html/353.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/soccer-random/index.html",
     "cover": "covers/353.png",
     "original": {
       "url": "/games/soccer-random/index.html",
@@ -3542,7 +3542,7 @@
   {
     "id": 355,
     "name": "Solitaire",
-    "game": "html/355.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/solitaire/index.html",
     "cover": "covers/355.png",
     "original": {
       "url": "/games/solitaire/index.html",
@@ -3712,7 +3712,7 @@
   {
     "id": 372,
     "name": "Spelunky Classic HD",
-    "game": "html/372.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/spelunky/index.html",
     "cover": "covers/372.png",
     "original": {
       "url": "/gamefile/spelunky.html",
@@ -3742,7 +3742,7 @@
   {
     "id": 375,
     "name": "Stick War: Legacy",
-    "game": "html/375.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/stickwar/index.html",
     "cover": "covers/375.png",
     "original": {
       "url": "/gamefile/stickwar.html",
@@ -3762,7 +3762,7 @@
   {
     "id": 377,
     "name": "Stickman Hook",
-    "game": "html/377.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/stickman-hook/index.html",
     "cover": "covers/377.png",
     "original": {
       "url": "/games/stickman-hook/index.html",
@@ -3772,7 +3772,7 @@
   {
     "id": 378,
     "name": "Subway Surfers",
-    "game": "html/378.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/subway-surfers/index.html",
     "cover": "covers/378.png",
     "original": {
       "url": "/games/subway-surfers/index.html",
@@ -3782,7 +3782,7 @@
   {
     "id": 379,
     "name": "Super Hot",
-    "game": "html/379.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/superhot/index.html",
     "cover": "covers/379.png",
     "original": {
       "url": "/games/superhot/index.html",
@@ -3862,7 +3862,7 @@
   {
     "id": 387,
     "name": "Tanuki Sunset",
-    "game": "html/387.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/tanuki-sunset/index.html",
     "cover": "covers/387.png",
     "original": {
       "url": "/games/tanukisunset/index.html",
@@ -3902,7 +3902,7 @@
   {
     "id": 391,
     "name": "Tetris",
-    "game": "html/391.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/tetris/index.html",
     "cover": "covers/391.png",
     "original": {
       "url": "/games/tetris/index.html",
@@ -3992,7 +3992,7 @@
   {
     "id": 400,
     "name": "There Is No Game",
-    "game": "html/400.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/there-is-no-game/index.html",
     "cover": "covers/400.png",
     "original": {
       "url": "/games/there-is-no-game/index.html",
@@ -4032,7 +4032,7 @@
   {
     "id": 404,
     "name": "Tiny Fishing",
-    "game": "html/404.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/tiny-fishing/index.html",
     "cover": "covers/404.png",
     "original": {
       "url": "/games/tiny-fishing/index.html",
@@ -4192,7 +4192,7 @@
   {
     "id": 420,
     "name": "Vex 3",
-    "game": "html/420.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/vex3/index.html",
     "cover": "covers/420.png",
     "original": {
       "url": "/games/vex3/index.html",
@@ -4202,7 +4202,7 @@
   {
     "id": 421,
     "name": "Vex 4",
-    "game": "html/421.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/vex4/index.html",
     "cover": "covers/421.png",
     "original": {
       "url": "/games/vex4/index.html",
@@ -4212,7 +4212,7 @@
   {
     "id": 422,
     "name": "Vex 5",
-    "game": "html/422.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/vex5/index.html",
     "cover": "covers/422.png",
     "original": {
       "url": "/games/vex5/index.html",
@@ -4222,7 +4222,7 @@
   {
     "id": 423,
     "name": "Vex 6",
-    "game": "html/423.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/vex6/index.html",
     "cover": "covers/423.png",
     "original": {
       "url": "/gamefile/vex6.html",
@@ -4232,7 +4232,7 @@
   {
     "id": 424,
     "name": "Vex 7",
-    "game": "html/424.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/vex7/index.html",
     "cover": "covers/424.png",
     "original": {
       "url": "/gamefile/vex7.html",
@@ -4262,7 +4262,7 @@
   {
     "id": 427,
     "name": "Volley Random",
-    "game": "html/427.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/volley-random/index.html",
     "cover": "covers/427.png",
     "original": {
       "url": "/games/volley-random/index.html",
@@ -4342,7 +4342,7 @@
   {
     "id": 435,
     "name": "Worlds Hardest Game 2",
-    "game": "html/435.html",
+    "game": "https://aneeshkadam.github.io/3kh0-assets/worlds-hardest-game-2/index.html",
     "cover": "covers/435.png",
     "original": {
       "url": "/games/worlds-hardest-game-2/index.html",

@@ -94,7 +94,9 @@ async function loadTruffledGames() {
 
       const link = document.createElement("a");
       link.href = "truffled-game.html?game=" +
-        encodeURIComponent("truffled/" + game.game);
+        encodeURIComponent(game.game.startsWith("https://aneeshkadam.github.io/3kh0-assets/")
+          ? game.game
+          : "truffled/" + game.game);
 
       const img = document.createElement("img");
       img.src = "truffled/" + game.cover;
