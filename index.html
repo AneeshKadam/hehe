@@ -124,26 +124,6 @@ async function loadTruffledGames() {
 
 loadTruffledGames();
 
-loadTruffledGames();
-    const searchInput = document.getElementById("searchInput");
-
-searchInput.addEventListener("input", function () {
-    const searchValue = searchInput.value.toLowerCase().trim();
-
-    const gameCards = document.querySelectorAll(".game-card");
-
-    gameCards.forEach(card => {
-        const gameName = card.querySelector(".hover-text p");
-
-        if (!gameName) return;
-
-        const name = gameName.textContent.toLowerCase();
-
-        card.style.display = name.includes(searchValue)
-            ? "flex"
-            : "none";
-    });
-});
 const searchInput = document.getElementById("searchInput");
 const grid = document.getElementById("truffledGrid");
 
@@ -163,7 +143,7 @@ searchInput.addEventListener("input", function () {
             ? "flex"
             : "none";
     });
-});    
+});
 </script>
 
 
